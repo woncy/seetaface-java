@@ -1,6 +1,6 @@
 # seetaface
 * version 1.0
-* auth wangxi
+* author wangxi
 * email wangxxxi@163.com
 ## 项目说明
 * 本项目依据seetaface作为底层算法，利用jna封装为java调用
